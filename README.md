@@ -6,7 +6,8 @@
 
 
 ### Description
-Describe what your project is about and what it does
+
+In this project we analyzed the bikeshare data from different cities to provide usefull information.
 
 ### Files used
 Include the files used
