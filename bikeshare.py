@@ -3,6 +3,8 @@ import pandas as pd
 import numpy as np
 import datetime as dt
 
+# Updated at 16.12.2019
+
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
