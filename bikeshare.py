@@ -47,6 +47,8 @@ def get_filters():
     print('-'*40)
 
     print("your values were: ", city, " " ,str(month), " " ,str(day))
+
+    print("Your city was: ", city)
     return city, month, day
 
 
