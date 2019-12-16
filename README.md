@@ -7,7 +7,7 @@
 
 ### Description
 
-In this project we analyzed the bikeshare data from different cities to provide usefull information.
+In this project we analyzed the bikeshare data from different cities to provide usefull information. This project was carried due autumn 2019.
 
 ### Files used
 
